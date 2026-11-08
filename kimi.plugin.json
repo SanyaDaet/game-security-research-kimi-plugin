@@ -1,0 +1,11 @@
+{
+  "name": "game-security-research",
+  "version": "1.0.0",
+  "description": "Game security research and anti-cheat development tools",
+  "systemPromptPath": "./SYSTEM.md",
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Game Security Research",
+    "shortDescription": "Anti-cheat development and security testing"
+  }
+}
